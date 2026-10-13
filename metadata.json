@@ -1,0 +1,6 @@
+{
+  "name": "Miller's Master Maker Suite",
+  "description": "All-in-one offline creative studio for photo cutouts and layers, multi-track audio mixing and beat-making, and video timeline editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

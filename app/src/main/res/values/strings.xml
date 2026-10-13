@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Miller\'s Master Maker Suite</string>
+    <string name="title_photo_studio">Photo Studio</string>
+    <string name="title_audio_studio">Audio Studio</string>
+    <string name="title_video_studio">Video Studio</string>
+    <string name="desc_offline_suite">100% On-Device Creative Suite</string>
+</resources>
